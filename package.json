@@ -1,0 +1,24 @@
+{
+  "name": "110-lab0",
+  "version": "1.0.0",
+  "description": "CSE 110 Lab",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SabineLo/110-lab0.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SabineLo/110-lab0/issues"
+  },
+  "homepage": "https://github.com/SabineLo/110-lab0#readme",
+  "devDependencies": {
+    "@types/node": "^26.6.3",
+    "typescript": "^7.0.2"
+  }
+}
