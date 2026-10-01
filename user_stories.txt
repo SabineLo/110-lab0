@@ -1,0 +1,5 @@
+1. As the lemonade stand owner I want to be able to choose how many glasses of lemonade I make so that I can start selling
+2. As the lemonade stand owner I want to be able to choose how many signs I make so I can use money 
+3. As the lemonade stand owner I want to be able choose the price for my lemonade so that I can gain profit
+4. As the lemonade stand owner I want to be able to recieve a financial report so that I can see how much has been made
+5. As the user I want to be able to have different types weather on differnt days so that I can adjust according to it
